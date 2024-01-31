@@ -5,16 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="485d5d97-2518-4880-bc5c-262a3bd5c82f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/string/src/n11718.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string/src/n2908.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string/src/n5622.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array_1di/array_1di.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/if_s/if_s.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/inoutop/inoutop.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop/loop.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/queue/queue.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/string/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/string.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_2di/array_2di.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_2di/src/n2738.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/time_complexity/src/n24262.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/time_complexity/src/n24263.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/time_complexity/src/n24264.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/time_complexity/src/n24265.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/time_complexity/src/n24266.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/time_complexity/src/n24267.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/time_complexity/src/n24313.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/time_complexity/time_complexity.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +34,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2bWxcELXV7EpgrbxJy8oMdUSrA4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -43,7 +46,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "17"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
