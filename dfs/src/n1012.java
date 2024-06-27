@@ -1,9 +1,7 @@
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class Main {
+public class n1012 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -57,5 +55,4 @@ public class Main {
             System.out.println(jirang);
         }
     }
-
 }
