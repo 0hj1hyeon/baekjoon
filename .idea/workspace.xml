@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="485d5d97-2518-4880-bc5c-262a3bd5c82f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dfs/src/n1012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs/src/n2667.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs/src/n2468.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamicp/dynamicp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamicp/src/n1463.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamicp/src/n9095.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dfs/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/dfs/src/Main.java" afterDir="false" />
     </list>

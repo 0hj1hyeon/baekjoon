@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/baekjoon.iml" filepath="$PROJECT_DIR$/.idea/baekjoon.iml" />
       <module fileurl="file://$PROJECT_DIR$/brute_force/brute_force.iml" filepath="$PROJECT_DIR$/brute_force/brute_force.iml" />
       <module fileurl="file://$PROJECT_DIR$/dfs/dfs.iml" filepath="$PROJECT_DIR$/dfs/dfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamicp/dynamicp.iml" filepath="$PROJECT_DIR$/dynamicp/dynamicp.iml" />
       <module fileurl="file://$PROJECT_DIR$/if_s/if_s.iml" filepath="$PROJECT_DIR$/if_s/if_s.iml" />
       <module fileurl="file://$PROJECT_DIR$/inoutop/inoutop.iml" filepath="$PROJECT_DIR$/inoutop/inoutop.iml" />
       <module fileurl="file://$PROJECT_DIR$/loop/loop.iml" filepath="$PROJECT_DIR$/loop/loop.iml" />
