@@ -1,9 +1,7 @@
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class Main {
+public class n10026 {
     static int checkcolor(char c, boolean[][] v, char[][] a, int n){
         int count = 0;
         int[] dx = { -1, 1, 0, 0 };
@@ -75,5 +73,4 @@ public class Main {
         System.out.println(answer2);
 
     }
-
 }
