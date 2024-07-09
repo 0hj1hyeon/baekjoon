@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="485d5d97-2518-4880-bc5c-262a3bd5c82f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dfs/src/n11724.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamicp/src/n1149.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamicp/src/n11726.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dfs/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/dfs/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamicp/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/dynamicp/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +42,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ohj01/OneDrive/바탕 화면/github/baekjoon&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/github/baekjoon&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
@@ -49,10 +53,17 @@
       <recent name="C:\Users\ohj01\OneDrive\바탕 화면\github\baekjoon" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="brute_force" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="dfs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -66,6 +77,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>

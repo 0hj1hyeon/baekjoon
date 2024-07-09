@@ -1,10 +1,7 @@
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class Main {
-
+public class n11724 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -22,7 +19,7 @@ public class Main {
             a[ar][st] = 1;
         }
 
-        Stack <Integer> st = new Stack<>();
+        Stack<Integer> st = new Stack<>();
         int ans = 0;
         for(int i = 1; i<=n;i++){
             if(!v[i]){
@@ -44,5 +41,4 @@ public class Main {
 
 
     }
-
 }
