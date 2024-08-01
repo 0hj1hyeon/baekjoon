@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dijkstra/Dijkstra.iml" filepath="$PROJECT_DIR$/Dijkstra/Dijkstra.iml" />
       <module fileurl="file://$PROJECT_DIR$/array_1di/array_1di.iml" filepath="$PROJECT_DIR$/array_1di/array_1di.iml" />
       <module fileurl="file://$PROJECT_DIR$/array_2di/array_2di.iml" filepath="$PROJECT_DIR$/array_2di/array_2di.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/baekjoon.iml" filepath="$PROJECT_DIR$/.idea/baekjoon.iml" />

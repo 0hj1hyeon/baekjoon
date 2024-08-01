@@ -1,20 +1,29 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.Scanner;
+import java.util.StringTokenizer;
 
 public class Main {
 
+
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int a= sc.nextInt();
+            Scanner sc = new Scanner(System.in);
+            int n = sc.nextInt();
+            int k =sc.nextInt();
+            int[][] a = new int[n+1][2];
+            for(int i =1; i<=n;i++){
+                a[i][0] = sc.nextInt();
+                a[i][1] = sc.nextInt();
+            }
+            int[]dp = new int[k+1];
 
-
-        int abc[] = new int[1001];
-        abc[1] = 1;
-        abc[2] =2;
-        for(int i =3 ;i<=1000;i++){
-            abc[i] = (abc[i-1]+ abc[i-2])%10007;
-        }
-
-        System.out.println(abc[a]);
+            for(int i = 1;i<=n; i++){
+                for(int j = k; j-a[i][0]>=0;j--){
+                    dp[j] = Math.max(dp[j], dp[j-a[i][0]]+a[i][1]);
+                }
+            }
+        System.out.println(dp[k]);
 
 
     }

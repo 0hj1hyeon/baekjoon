@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Main {
+public class n1068 {
     static ArrayList<Integer>[] a;
     static boolean[] check;
     static int leafCount;
